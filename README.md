@@ -1,7 +1,8 @@
-<h1 align="center"> Hey there! I'm Kalel :) </h1>
+<h1 align="center"> Hey there! I'm Kalel :smile: </h1>
 
-- 👀 I’m interested in Complex Systems and Neuroscience
+- 👀 I’m interested in Complex Systems, Nonlinear Dynamics, and Neuroscience
 - 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in Neuroscience, and time-series analysis
+- 💻 I'm contributing to the DynamicalSystems.jl library
 - 📫 Reach me at **kalelluizrossi@gmail.com**
 
 <h3 align="left">My Research :</h3>
