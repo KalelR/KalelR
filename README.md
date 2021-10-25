@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there! I'm Kalel :smile: </h1>
 
 - 👀 I’m interested in Complex Systems, Nonlinear Dynamics, and Neuroscience
-- 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in neuroscience, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel
+- 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in neuroscience, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel for my PhD
 - 🌱 I'm starting to contribute to open-source libraries, like DynamicalSystems.jl
 - 📫 Reach me at **kalelluizrossi@gmail.com** or **kalel.rossi@uni-oldenburg.de**
 
