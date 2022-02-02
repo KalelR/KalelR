@@ -33,5 +33,3 @@
 
 - Master's degree in Physics 🧲 🪐 🌎 ☀️
 - From Brazil 🇧🇷
-- Huge fan of progressive rock 🎵 🎼 🎷
-
