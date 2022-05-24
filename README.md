@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! </h1>
+<h1 align="center"> Hello, I'm Kalel! </h1>
 
 - 👀 I’m interested in Complex Systems, Nonlinear Dynamics, and Neuroscience
 - 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in neuroscience, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel for my PhD
