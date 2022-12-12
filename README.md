@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm Kalel! </h1>
 
-- 👀 I’m a PhD student interested in understanding the dynamics of complex systems, with particular a focus on Neuroscience.
+- 👀 I’m a PhD student interested in understanding the dynamics of complex systems, especially the brain.
 - 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in neuroscience, effects of modularity in neuronal cultures, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel for my PhD.
 - 🌱 I'm a contributor to open-source libraries like DynamicalSystems.jl
 - 📫 Reach me at **kalelluizrossi@gmail.com** or **kalel.rossi@uni-oldenburg.de**
@@ -14,10 +14,10 @@
 
 <h3 align="left">My Open-Source Contributions </h3>
 
-- Basin stability algorithm (ChaosTools.jl)
+- Algorithms for finding attractors and their basins efficiently in arbitrary dynamical systems (Attractors.jl)
 - YIN, a fundamental frequency estimator algorithm (ChaosTools.jl)
 - Predefined dynamical systems (DynamicalSystemsBase.jl)
-- A few others, with more also to come!
+
 
 <!-- <h4 align="left">Github Stats </h4> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KalelR&show_icons=true&locale=en" alt="kalelr" /></p>
