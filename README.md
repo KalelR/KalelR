@@ -1,5 +1,5 @@
-- 👀 I’m a PhD student interested in understanding the dynamics of complex systems, especially the brain.
-- 🔭 I’m currently researching sensitivity in networks of phase oscillators, metastability in neuroscience, effects of modularity in neuronal cultures, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel for my PhD.
+- 👀 I’m a Postdoc interested in understanding the dynamics of complex systems, especially the brain.
+- 🔭 I’m currently researching dynamical mechanisms underlying computations in biological and artificial networks. I have also studied sensitivity in networks of phase oscillators, metastability in neuroscience, effects of modularity in neuronal cultures, and time-series analysis under the supervisorship of Prof. Dr. Ulrike Feudel for my PhD.
 - 🌱 I'm a contributor to open-source libraries like DynamicalSystems.jl
 - 📫 Reach me at **kalelluizrossi@gmail.com** or **kalel.rossi@uni-oldenburg.de**
 
